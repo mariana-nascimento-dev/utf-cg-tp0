@@ -1,1 +1,1 @@
-Trabalho prático para a matéria de Computação gráfica, consiste em uma página web contando um pouco sobre mim.
+Página web com algumas informações sobre mim, um botão de tocar música e um para passar fotos, assim como o professor solicitou.
